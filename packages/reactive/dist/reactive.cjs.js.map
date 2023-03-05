@@ -1,0 +1,1 @@
+{"version":3,"file":"reactive.cjs.js","sources":["../src/index.ts"],"sourcesContent":["export const b = () => {}"],"names":[],"mappings":"MAAa,CAAC,GAAG,MAAK;;;;"}
